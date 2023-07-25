@@ -1,11 +1,12 @@
 /*  your css code here. If applicable */
  *{
-	background-color:white;
+	background-color:#cccccc;
 } 
 
 ul{
 	list-style-type:none;
 	text-decoration-line:none;
+     background-color:white;
 }
 
 .player_one{
