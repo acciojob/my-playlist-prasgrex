@@ -11,12 +11,14 @@ ul{
 
 .player_one{
 	border-radius:1px;
-	
+	background-color:white;
+	padding-right:1px
 }
 
 .player_two{
 	padding-left:100px;
-	border-square:100px;
+	border-radius:10px;
+	background-color:white;
 	
 }
 
