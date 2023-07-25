@@ -6,17 +6,17 @@
 ul{
 	list-style-type:none;
 	text-decoration-line:none;
-     background-color:white;
 }
 
 .player_one{
-	background-color:white;
-	padding:1px;
 	border-radius:1px;
+	background-color:white;
 }
 
 .player_two{
+	padding-left:100px;
+	border-square:100px;
 	background-color:white;
-	padding:1px;
-	border-radius:1px;
 }
+
+
