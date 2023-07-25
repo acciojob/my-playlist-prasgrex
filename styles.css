@@ -1,6 +1,7 @@
 /*  your css code here. If applicable */
  *{
 	background-color:#cccccc;
+	 margin:0px;
 } 
 
 ul{
@@ -10,13 +11,13 @@ ul{
 
 .player_one{
 	border-radius:1px;
-	background-color:white;
+	
 }
 
 .player_two{
 	padding-left:100px;
 	border-square:100px;
-	background-color:white;
+	
 }
 
 
