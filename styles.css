@@ -2,3 +2,19 @@
 *{
 	background-color:#cccccc;
 }
+
+ul{
+	list-style-type:none;
+}
+
+.player_one{
+	background-color:white;
+	padding:1px;
+	border-radius:1px;
+}
+
+.player_two{
+	background-color:white;
+	padding:1px;
+	border-radius:1px;
+}
