@@ -2,7 +2,6 @@ body{
 	background-color:#cccccc
 }
 
-
 li{
 	list-style:none;
 }
@@ -10,6 +9,7 @@ li{
 a{
 	text-decoration-line:none;
 }
+
 .player_one{
 	border: 1px solid black;
 	border-radius:5px;
