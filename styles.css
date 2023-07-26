@@ -2,8 +2,13 @@ body{
 	background-color:#cccccc
 }
 
+
 li{
 	list-style:none;
+}
+
+a{
+	text-decoration-line:none;
 }
 .player_one{
 	border: 1px solid black;
@@ -12,6 +17,7 @@ li{
 }
 
 .player_two{
+	margin:50px;
 	border:1px solid black;
 	border-radius:5px;
 	padding-top:20px;
