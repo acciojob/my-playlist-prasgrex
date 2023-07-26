@@ -1,25 +1,18 @@
-/*  your css code here. If applicable */
- *{
-	background-color:#cccccc;
-	 margin:0px;
-} 
-
-ul{
-	list-style-type:none;
-	text-decoration-line:none;
+*{
+	background-color:#cccccc
 }
 
+li{
+	list-style:none;
+}
 .player_one{
-	border-radius:1px;
+	border: 1px solid black;
+	border-radius:5px;
 	background-color:white;
-	padding-right:1px
 }
 
 .player_two{
+	border:1px solid black;
+	border-radius:5px;
 	padding-left:100px;
-	border-radius:10px;
-	background-color:white;
-	
 }
-
-
